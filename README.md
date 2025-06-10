@@ -6,8 +6,8 @@ Build an eLearning app
 git clone (Link)
 
 # Go into the project directory
-cd endterm
-cd backend
-pip install -r requirements.txt
-python manage.py runserver
+- cd endterm
+- cd backend
+- pip install -r requirements.txt
+- python manage.py runserver
 
